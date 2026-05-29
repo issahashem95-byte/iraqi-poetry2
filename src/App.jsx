@@ -1,3 +1,1 @@
-export default function App() {
-  return <h1>تحميل...</h1>;
-}
+cat /mnt/user-data/outputs/iraqi-poetry-app.jsx
